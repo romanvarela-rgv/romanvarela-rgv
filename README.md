@@ -1,69 +1,73 @@
+<h1 align="center">Hi, I'm Roman Varela 👋</h1>
 <p align="center">
-  <a href="https://romangaelvarela.online"><img src="https://romangaelvarela.online/images/og-image.jpg" alt="RGV, Roman Gael Varela" width="100%"></a>
+  🎮 Game development student at <b>UADE</b> · 🌐 Web & app developer · 🎨 Graphic designer on the side
 </p>
 
-# Roman Gael Varela · RGV
-
-Diseño portadas para artistas de la escena urbana y programo webs, apps y videojuegos. Soy de Buenos Aires y estudio la Licenciatura en Programación y Diseño de Videojuegos en UADE.
-
-Hice portadas para Neo Pistea, Kidd Keo, Zell, Duko y Little Boogie, entre otros. Del lado del código armo desde una landing hasta un sistema de gestión, y en la facu hago juegos en Unity y C++. Diseño la tapa y también programo lo que va atrás.
-
-<p>
-  <a href="https://romangaelvarela.online"><img src="https://img.shields.io/badge/romangaelvarela.online-E30000?style=for-the-badge&logoColor=white" alt="Sitio"></a>
-  <a href="https://wa.me/5491136072305"><img src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
-  <a href="https://instagram.com/Romanvarela27"><img src="https://img.shields.io/badge/@Romanvarela27-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://romangaelv.itch.io/galactic-defenders"><img src="https://img.shields.io/badge/itch.io-000000?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch.io"></a>
-</p>
-
-## Qué hago
-
-**Diseño gráfico.** Portadas de discos y singles, flyers, logos e identidad visual. Texturas sucias, distorsión, estética trap.
-
-**Webs y apps.** Landings, portfolios, sitios de empresa, catálogos y apps de gestión (Electron, PWA, SQLite, React).
-
-**Videojuegos.** Unity con C#, C++ con SDL2, shaders, patrones de programación y QA.
-
-## Proyectos
-
-### Web
-
-| Proyecto | Qué es |
-|---|---|
-| [romangaelvarela.online](https://github.com/romanvarela-rgv/romangaelvarela.online) | Mi sitio: portfolio de portadas, proyectos y contacto directo por WhatsApp. HTML, CSS y JS sin frameworks |
-| [ciberkiosco-punto-com](https://github.com/romanvarela-rgv/ciberkiosco-punto-com) | Sitio de Punto Com, mi ciber y gestoría de trámites. [Verlo en vivo](https://ciberkioscopuntocom.com) |
-| [quantum-gym-web](https://github.com/romanvarela-rgv/quantum-gym-web) | Propuesta de sitio para un gimnasio de Córdoba, con su propio sistema de diseño |
-| [brothers-gym-web](https://github.com/romanvarela-rgv/brothers-gym-web) | Propuesta de sitio para un gimnasio de Mariano Acosta |
-
-### Videojuegos
-
-| Proyecto | Qué es | Stack |
-|---|---|---|
-| [galactic-defenders](https://github.com/romanvarela-rgv/galactic-defenders) | Shooter espacial: 3 niveles, 3 jefes, intro cinemática. [Jugalo en itch.io](https://romangaelv.itch.io/galactic-defenders) | Unity · C# |
-| [galactic-defenders-patrones](https://github.com/romanvarela-rgv/galactic-defenders-patrones) | El mismo juego refactorizado con Memento y Event Queue | Unity · C# |
-| [galactic-defenders-qa](https://github.com/romanvarela-rgv/galactic-defenders-qa) | Rondas de prueba, bugs corregidos y power-ups nuevos | Unity · C# |
-| [asteroid-destroyer-csharp](https://github.com/romanvarela-rgv/asteroid-destroyer-csharp) | Arcade sobre un motor 2D propio, con interfaces e inyección de dependencias | C# · GDI+ |
-| [pong-cpp](https://github.com/romanvarela-rgv/pong-cpp) | Slayer Pong: Pong de terror con IA, 3 dificultades y selección de personaje | C++ · SDL2 |
-| [character-selector-cpp](https://github.com/romanvarela-rgv/character-selector-cpp) | Selector de personajes con sprites animados | C++ · SDL2 |
-| [unity-shaders](https://github.com/romanvarela-rgv/unity-shaders) | Shaders en grupo; lo mío es el agua toon y la de depth fade | Unity · HLSL |
-
-## Herramientas
-
-<p>
-  <img src="https://img.shields.io/badge/Photoshop-000000?style=flat-square&logo=adobephotoshop&logoColor=white" alt="Photoshop">
-  <img src="https://img.shields.io/badge/Illustrator-000000?style=flat-square&logo=adobeillustrator&logoColor=white" alt="Illustrator">
-  <img src="https://img.shields.io/badge/Blender-000000?style=flat-square&logo=blender&logoColor=white" alt="Blender">
-  <img src="https://img.shields.io/badge/HTML-000000?style=flat-square&logo=html5&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS-000000?style=flat-square&logo=css&logoColor=white" alt="CSS">
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript">
-  <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white" alt="React">
-  <img src="https://img.shields.io/badge/Electron-000000?style=flat-square&logo=electron&logoColor=white" alt="Electron">
-  <img src="https://img.shields.io/badge/SQLite-000000?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
-  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity">
-  <img src="https://img.shields.io/badge/C%23-000000?style=flat-square&logo=dotnet&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white" alt="Git">
+<p align="center">
+  <a href="https://romangaelvarela.online"><img src="https://img.shields.io/badge/Website-romangaelvarela.online-E30000?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+  <a href="https://romangaelv.itch.io/galactic-defenders"><img src="https://img.shields.io/badge/itch.io-Play%20my%20game-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"></a>
+  <a href="mailto:roamanelcapo@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
 
-¿Tenés un tema, una marca o una idea para una web? Escribime por [WhatsApp](https://wa.me/5491136072305) y lo vemos.
+### 🇬🇧 About me
+- 🎓 I study Game Programming and Design at **UADE** in Buenos Aires.
+- 🕹️ Most of what's here is games: **Unity (C#)** and **C++ with SDL2**, from gameplay to design patterns, shaders and QA.
+- 🌐 I also build websites and small business tools. Plain HTML, CSS and JS when that's enough, React or Electron when it isn't.
+- 🎨 Outside of code I make album covers and visual identity for the Argentine urban scene. That's on [my site](https://romangaelvarela.online), not here.
+
+### 🇦🇷 Sobre mí
+- 🎓 Estudio Programación y Diseño de Videojuegos en **UADE**, en Buenos Aires.
+- 🕹️ Casi todo lo que hay acá son juegos: **Unity (C#)** y **C++ con SDL2**, desde el gameplay hasta patrones de diseño, shaders y QA.
+- 🌐 También hago sitios web y herramientas para negocios chicos. HTML, CSS y JS a mano cuando alcanza; React o Electron cuando no.
+- 🎨 Fuera del código diseño portadas e identidad visual para la escena urbana. Eso está en [mi sitio](https://romangaelvarela.online), no acá.
+
+---
+
+### 🛠️ Tech stack
+<p>
+  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white">
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/SDL2-1F3B5C?style=flat-square&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/HLSL%20%2F%20Shaders-5C2D91?style=flat-square&logo=unity&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white">
+</p>
+
+---
+
+### 🎮 Games / Juegos
+
+| Project | What it is | Stack |
+|---|---|---|
+| 🌌 [galactic-defenders](https://github.com/romanvarela-rgv/galactic-defenders) | 2D space shooter: 3 levels, 3 bosses, cinematic intro. [Playable on itch.io](https://romangaelv.itch.io/galactic-defenders) | Unity · C# |
+| 🧩 [galactic-defenders-patrones](https://github.com/romanvarela-rgv/galactic-defenders-patrones) | Same game, refactored with Memento and Event Queue | Unity · C# |
+| ✅ [galactic-defenders-qa](https://github.com/romanvarela-rgv/galactic-defenders-qa) | Test rounds, bug fixes and new power-ups | Unity · C# |
+| ☄️ [asteroid-destroyer-csharp](https://github.com/romanvarela-rgv/asteroid-destroyer-csharp) | Arcade game on a small custom 2D engine: interfaces, DI, object pooling | C# · GDI+ |
+| 🔪 [pong-cpp](https://github.com/romanvarela-rgv/pong-cpp) | Slayer Pong: horror-themed Pong with AI, 3 difficulties and character select | C++ · SDL2 |
+| 🧙 [character-selector-cpp](https://github.com/romanvarela-rgv/character-selector-cpp) | Character select screen with animated sprites | C++ · SDL2 |
+| ✨ [unity-shaders](https://github.com/romanvarela-rgv/unity-shaders) | Group shader project; my part is the toon and depth-fade water | Unity · HLSL |
+
+### 🌐 Web
+
+| Project | What it is | Stack |
+|---|---|---|
+| 🔴 [romangaelvarela.online](https://github.com/romanvarela-rgv/romangaelvarela.online) | My own site: portfolio, projects and WhatsApp contact, no build step | HTML · CSS · JS |
+| 🏪 [ciberkiosco-punto-com](https://github.com/romanvarela-rgv/ciberkiosco-punto-com) | Site for Punto Com, my cyber café and paperwork desk. [Live](https://ciberkioscopuntocom.com) | HTML · CSS |
+| ⚡ [quantum-gym-web](https://github.com/romanvarela-rgv/quantum-gym-web) | Website proposal for a gym in Córdoba, with its own design system | HTML · CSS · JS |
+| 🏋️ [brothers-gym-web](https://github.com/romanvarela-rgv/brothers-gym-web) | Website proposal for a gym in Mariano Acosta | HTML · CSS |
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=romanvarela-rgv&show_icons=true&theme=tokyonight&hide_border=true" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romanvarela-rgv&layout=compact&theme=tokyonight&hide_border=true" height="160">
+</p>
