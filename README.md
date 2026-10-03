@@ -30,7 +30,9 @@ Hice portadas para Neo Pistea, Kidd Keo, Zell, Duko y Little Boogie, entre otros
 | Proyecto | Qué es |
 |---|---|
 | [romangaelvarela.online](https://github.com/romanvarela-rgv/romangaelvarela.online) | Mi sitio: portfolio de portadas, proyectos y contacto directo por WhatsApp. HTML, CSS y JS sin frameworks |
-| [Punto Com](https://ciberkioscopuntocom.com) | Sitio de un ciberkiosco con más de 25 años en el barrio |
+| [ciberkiosco-punto-com](https://github.com/romanvarela-rgv/ciberkiosco-punto-com) | Sitio de Punto Com, mi ciber y gestoría de trámites. [Verlo en vivo](https://ciberkioscopuntocom.com) |
+| [quantum-gym-web](https://github.com/romanvarela-rgv/quantum-gym-web) | Propuesta de sitio para un gimnasio de Córdoba, con su propio sistema de diseño |
+| [brothers-gym-web](https://github.com/romanvarela-rgv/brothers-gym-web) | Propuesta de sitio para un gimnasio de Mariano Acosta |
 
 ### Videojuegos
 
