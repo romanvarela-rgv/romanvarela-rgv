@@ -65,6 +65,13 @@
 | ⚡ [quantum-gym-web](https://github.com/romanvarela-rgv/quantum-gym-web) | Website proposal for a gym in Córdoba, with its own design system | HTML · CSS · JS |
 | 🏋️ [brothers-gym-web](https://github.com/romanvarela-rgv/brothers-gym-web) | Website proposal for a gym in Mariano Acosta | HTML · CSS |
 
+
+### 🧠 Notes / Notas
+
+| Project | What it is | Stack |
+|---|---|---|
+| 🧠 [second-brain](https://github.com/romanvarela-rgv/second-brain) | My second brain: daily notes, what I'm learning and project decisions, organized with PARA. In Spanish, updated every day | Markdown · Obsidian |
+
 ---
 
 <p align="center">
