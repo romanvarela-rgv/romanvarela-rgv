@@ -4,9 +4,9 @@
 </p>
 
 <p align="center">
-  <a href="https://romangaelvarela.online"><img src="https://img.shields.io/badge/Website-romangaelvarela.online-E30000?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-  <a href="https://romangaelv.itch.io/galactic-defenders"><img src="https://img.shields.io/badge/itch.io-Play%20my%20game-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"></a>
-  <a href="mailto:roamanelcapo@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://romangaelvarela.online"><img alt="Website: romangaelvarela.online" src="https://img.shields.io/badge/Website-romangaelvarela.online-E30000?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+  <a href="https://romangaelv.itch.io/galactic-defenders"><img alt="itch.io: Play my game" src="https://img.shields.io/badge/itch.io-Play%20my%20game-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"></a>
+  <a href="mailto:roamanelcapo@gmail.com"><img alt="Email: Contact" src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
@@ -27,19 +27,19 @@
 
 ### 🛠️ Tech stack
 <p>
-  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white">
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/SDL2-1F3B5C?style=flat-square&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/HLSL%20%2F%20Shaders-5C2D91?style=flat-square&logo=unity&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white">
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white">
+  <img alt="Unity" src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white">
+  <img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white">
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
+  <img alt="SDL2" src="https://img.shields.io/badge/SDL2-1F3B5C?style=flat-square&logo=c&logoColor=white">
+  <img alt="HLSL / Shaders" src="https://img.shields.io/badge/HLSL%20%2F%20Shaders-5C2D91?style=flat-square&logo=unity&logoColor=white">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
+  <img alt="Electron" src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white">
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+  <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white">
 </p>
 
 ---
@@ -65,7 +65,6 @@
 | ⚡ [quantum-gym-web](https://github.com/romanvarela-rgv/quantum-gym-web) | Website proposal for a gym in Córdoba, with its own design system | HTML · CSS · JS |
 | 🏋️ [brothers-gym-web](https://github.com/romanvarela-rgv/brothers-gym-web) | Website proposal for a gym in Mariano Acosta | HTML · CSS |
 
-
 ### 🧠 Notes / Notas
 
 | Project | What it is | Stack |
@@ -75,6 +74,6 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=romanvarela-rgv&show_icons=true&theme=tokyonight&hide_border=true" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romanvarela-rgv&layout=compact&theme=tokyonight&hide_border=true" height="160">
+  <img alt="Roman Varela GitHub stats" src="https://github-readme-stats.vercel.app/api?username=romanvarela-rgv&show_icons=true&theme=tokyonight&hide_border=true" height="160">
+  <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romanvarela-rgv&layout=compact&theme=tokyonight&hide_border=true" height="160">
 </p>
