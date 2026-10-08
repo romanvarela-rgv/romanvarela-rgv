@@ -61,6 +61,7 @@
 | Project | What it is | Stack |
 |---|---|---|
 | 🔴 [romangaelvarela.online](https://github.com/romanvarela-rgv/romangaelvarela.online) | My own site: portfolio, projects and WhatsApp contact, no build step | HTML · CSS · JS |
+| 🧰 [plantilla-negocio-local](https://github.com/romanvarela-rgv/plantilla-negocio-local) | Generator for local business sites from one JSON: WhatsApp contact, live open/closed sign and local SEO. Zero dependencies, tested. [Demo](https://romanvarela-rgv.github.io/plantilla-negocio-local/) | Node · HTML · CSS · JS |
 | 🏪 [ciberkiosco-punto-com](https://github.com/romanvarela-rgv/ciberkiosco-punto-com) | Site for Punto Com, my cyber café and paperwork desk. [Live](https://ciberkioscopuntocom.com) | HTML · CSS |
 | ⚡ [quantum-gym-web](https://github.com/romanvarela-rgv/quantum-gym-web) | Website proposal for a gym in Córdoba, with its own design system | HTML · CSS · JS |
 | 🏋️ [brothers-gym-web](https://github.com/romanvarela-rgv/brothers-gym-web) | Website proposal for a gym in Mariano Acosta | HTML · CSS |
